@@ -25,7 +25,6 @@ int main ()
 }
 
 // Definition of function sortArray
-
 void sortArray(int array[], int size)
 {
 	bool swap;
@@ -49,7 +48,6 @@ void sortArray(int array[], int size)
 }
 
 // Definition of function showArray
-
 void showArray(const int array[], int size)
 {
 	for (int count =0; count < size; count++)
